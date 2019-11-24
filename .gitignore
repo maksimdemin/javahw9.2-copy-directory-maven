@@ -1,0 +1,27 @@
+# Default ignored files for gitignore
+*.class
+*.ear
+*.iml
+*.ipr
+*.iws
+*.jar
+*.jpg
+*.png
+*.war
+*.zip
+
+workspace.xml
+tasks.xml
+
+hs_err_pid*
+
+.idea/
+.idea_moodules/
+.mtj.tmp/
+/data/
+/lib/
+/log/
+/logs/
+/out/
+**/libraries/
+**/target/
