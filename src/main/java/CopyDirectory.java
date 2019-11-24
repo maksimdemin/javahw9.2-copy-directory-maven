@@ -10,12 +10,12 @@ import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 public class CopyDirectory {
 
     // пути для Version №1
-    private static final String PATH_SRC_DIR = "/Users/maksimdemin/test-app";
-    private static final String PATH_DEST_DIR = "/Users/maksimdemin/CopyTo/test-app";
+    private static final String PATH_SRC_DIR = "/Users/maks/test-app";
+    private static final String PATH_DEST_DIR = "/Users/maks/CopyTo/test-app";
 
     // пути для Version №2
-    private static final String PATH_SRC_DIR_ONE = "/Users/maksimdemin/Documents/Try/srcDir/One";
-    private static final String PATH_DEST_DIR_ONE = "/Users/maksimdemin/Documents/Try/destDir";
+    private static final String PATH_SRC_DIR_ONE = "/Users/maks/Documents/Try/srcDir/One";
+    private static final String PATH_DEST_DIR_ONE = "/Users/maks/Documents/Try/destDir";
 
     // пути для Version №3
     private static final String PATH_SRC_DIR_TWO = "/Volumes/Transcend/CopyDir/srcDir";
